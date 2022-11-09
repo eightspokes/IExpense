@@ -12,6 +12,7 @@ struct IExpenseApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                
         }
     }
 }
